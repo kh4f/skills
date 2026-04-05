@@ -6,4 +6,4 @@ A curated collection of [Agent Skills](https://agentskills.io) reflecting [kh4f]
 
 | Name | Description |
 | - | - |
-| [`suggest-commit`](skills/suggest-commit/SKILL.md) | Suggest conventional commit messages from Git changes. Use when asked to suggest a commit message. |
+| [`suggest-commit`](skills/suggest-commit/SKILL.md) | Suggest conventional commit messages from Git changes. |
